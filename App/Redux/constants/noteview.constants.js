@@ -1,0 +1,1 @@
+export const LOAD_ITEMVIEW = 'LOAD_ITEMVIEW';
