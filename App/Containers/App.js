@@ -12,6 +12,7 @@ class App extends Component {
     componentDidMount() {
         Font.loadAsync({
             'Roboto': require('../Assets/Fonts/Roboto-Regular.ttf'),
+            'Roboto_medium': require('../Assets/Fonts/Roboto-Medium.ttf'),
           });
     }
 
